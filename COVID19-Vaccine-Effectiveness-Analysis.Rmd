@@ -1,5 +1,5 @@
 ---
-title: "CST4070 - Comp. 3"
+title: "COVID19-Vaccine-Effectiveness-Analysis By Sarima Iyayi"
 output:
   pdf_document: default
   html_notebook: default
