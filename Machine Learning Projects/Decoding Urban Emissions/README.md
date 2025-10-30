@@ -149,5 +149,6 @@ MSc Data Science | Environmental Data Analyst | Machine Learning Practitioner
 *For access to code implementation, detailed model architectures, or research collaboration, please contact me directly.*
 
 ---
+⭐ **Please Star this repo if you found it useful. Thank you!**
 
 *Last updated: October 2025*
