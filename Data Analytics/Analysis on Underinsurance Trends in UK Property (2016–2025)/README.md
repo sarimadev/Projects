@@ -5,7 +5,7 @@
 
 ## Overview
 
-A data visualization project revealing how UK construction costs have outpaced property values, creating a growing underinsurance gap for property owners. This project aims to support property underinsurace awareness.
+A data visualization project revealing how UK construction costs have outpaced property values, creating a growing underinsurance gap for property owners. This project aims to support property underinsurance awareness.
 
 **Key Finding:** Rebuild costs accelerated significantly faster than market values after 2021, reaching an average gap of 6% by August 2025.
 
