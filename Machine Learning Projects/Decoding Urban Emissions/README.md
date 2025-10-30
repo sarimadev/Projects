@@ -137,9 +137,7 @@ This project is shared for educational and portfolio purposes.
 **Sarima Iyayi**  
 MSc Data Science | Environmental Data Analyst | Machine Learning Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](YOUR_LINKEDIN_PROFILE)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:YOUR_EMAIL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](www.linkedin.com/in/sarima-iyayi-81a1b6139) [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:sarimafyne54@gmail.com)
 
 ---
 
